@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+librosa
+soundfile
+transformers
+torch
+scikit-learn
+pyarrow
+joblib
+opencv-python
+matplotlib
+kafka-python
+streamlit
